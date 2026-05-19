@@ -20,6 +20,12 @@ Finansal Otopilot, kişisel bütçe yönetimini o eski nesil, sıkıcı ve manue
 
 Bu projenin arkasında sadece kod yazmak değil; uzak Linux sunucularında port yapılandırmaları, veritabanı migration süreçleri ve PM2 ile kesintisiz deployment gibi ciddi bir operasyonel süreç yatıyor. Sistemi canlıya alırken karşılaştığım her zorluk ve çözdüğüm her sunucu hatası (özellikle backend-veritabanı haberleşmesindeki o ince detaylar!), full-stack mimarisine olan hakimiyetimi ciddi anlamda test etti ve geliştirdi.
 
+## 🌍 Canlı Demo & Proje Videosu (BTK Hackathon Jürisi İçin Özel Not)
+Projeyi değerlendirirken sadece kaynak kodlarına bakmanızı değil, sistemi canlı olarak deneyimlemenizi çok isterim. Bu nedenle projeyi bir Ubuntu VPS sunucusunda yayına aldım. 
+
+* 🔗 **Canlı Sistem:** [http://194.36.85.222](http://194.36.85.222)
+*(Önemli Not: Test ortamı olduğu için sisteme henüz bir domain ve SSL sertifikası (HTTPS) tanımlanmamıştır. Bu sebeple tarayıcınız "Güvenli Değil" uyarısı verebilir. Gelişmiş seçeneklerden devam et diyerek test ortamına sorunsuz giriş yapabilirsiniz.)
+
 
 ⚙️ Local Kurulum (Kendi Bilgisayarında Çalıştırmak İçin)
 
