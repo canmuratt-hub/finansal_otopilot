@@ -1,6 +1,6 @@
 🚀Finansal Otopilot | AI-Powered Personal Finance
 
-Finansal Otopilot, kişisel bütçe yönetimini o eski nesil, sıkıcı ve manuel Excel tablolarından kurtarmak için geliştirdiğim tam donanımlı bir web uygulaması. Amacım sadece gelir-gider kaydeden bir form yapmak değil; arka plandaki yapay zeka motoru sayesinde finansal verileri analiz eden, hedefleri takip eden ve otonom içgörüler sunan akıllı bir asistan yaratmaktı.
+Finansal Otopilot, kişisel bütçe yönetimini o eski nesil, sıkıcı ve manuel Excel tablolarından kurtarmak için geliştirdiğim tam donanımlı bir web uygulaması. Amacım sadece gelir-gider kaydeden bir form yapmak değil; arka plandaki Niko yapay zeka motoru sayesinde finansal verileri analiz eden, hedefleri takip eden ve otonom içgörüler sunan akıllı bir asistan yaratmaktı.
 
 
 🛠️ Neler Kullandım? (Tech Stack)
