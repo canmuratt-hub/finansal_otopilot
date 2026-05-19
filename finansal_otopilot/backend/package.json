@@ -1,0 +1,20 @@
+{
+  "name": "finansal-otopilot-backend",
+  "version": "1.0.0",
+  "description": "Finansal Otopilot - AI destekli kişisel finans yönetimi API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.2",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.22.3"
+  }
+}
